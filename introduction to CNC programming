@@ -9,7 +9,7 @@ Key components of CNC programming include :
 > CAM software : Computer-Aided Manufacturing software used to create G-code programs from 3D CAD models.
 
 The CNC programming process typically involves :
-1. CAD modeling : Creating a # D model of the desired part using CAD software.
+1. CAD modeling : Creating a 3D model of the desired part using CAD software.
 2. CAM programming : Using CAM software to generate G-code instructions based on the CAD model.
 3. Machine setup : Preparing the CNC machine with the appropriate tools and fixtures.
 4. Code verification : Simulating the G-code program to ensure accuracy and identify potential errors.
